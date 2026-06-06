@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "02",
+        "nome": "Smarphone",
+        "quantidade": 60,
+        "valor": 1800.0
+    },
+    {
+        "codigo": "03",
+        "nome": "Monitor Full HD",
+        "quantidade": 70,
+        "valor": 800.0
+    },
+    {
+        "codigo": "04",
+        "nome": "Teclado",
+        "quantidade": 30,
+        "valor": 95.8
+    }
+]
